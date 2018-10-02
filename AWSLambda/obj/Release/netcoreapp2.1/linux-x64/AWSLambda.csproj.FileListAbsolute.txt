@@ -1,0 +1,11 @@
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\linux-x64\AWSLambda.deps.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\linux-x64\AWSLambda.runtimeconfig.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\linux-x64\AWSLambda.runtimeconfig.dev.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\linux-x64\AWSLambda.dll
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\linux-x64\AWSLambda.pdb
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.csprojAssemblyReference.cache
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.csproj.CoreCompileInputs.cache
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.AssemblyInfoInputs.cache
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.AssemblyInfo.cs
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.dll
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\linux-x64\AWSLambda.pdb

@@ -1,0 +1,10 @@
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.deps.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.runtimeconfig.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.runtimeconfig.dev.json
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.dll
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.csproj.CoreCompileInputs.cache
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.AssemblyInfoInputs.cache
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.AssemblyInfo.cs
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.pdb
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.dll
+C:\whecqg_vo_RD0054097\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.pdb
